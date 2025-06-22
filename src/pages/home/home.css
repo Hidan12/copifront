@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+@layer components {
+    .conteiner-home{
+        @apply w-[95%] sm:w-[95%] md:w-[90%] h-40
+    }
+}
